@@ -7,5 +7,5 @@ Learning Repository</a>
 
 There are 4 R files and 4 png files attached to the repository.
 
-For running the scripts, you need to extarct them and laod them into your current working directory and run the R scripts.
+For running the scripts, you need to extarct them and load them into your current working directory and run the R scripts.
 
