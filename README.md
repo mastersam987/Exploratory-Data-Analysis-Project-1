@@ -1,4 +1,4 @@
-### Exploratory-Data-Analysis-Project-1
+## Exploratory-Data-Analysis-Project-1
 
 This Repository holds the files which are needed to complete the Project Assignment 1 of Exploratory Data Analysis Course.
 
